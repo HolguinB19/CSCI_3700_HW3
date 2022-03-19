@@ -17,7 +17,7 @@ py -m venv python_venv
 
 You need to activate the virtual environment when you want to use it:
 ```
-source python_venv/Scripts/activate
+python_venv/Scripts/activate
 ```
 
 To fufil all the requirements for the python server, you need to run:
